@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.deps.json
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.runtimeconfig.json
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.dll
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ref/ForEachInArray.dll
+/Users/aleks/Projects/Arrays/ForEachInArray/bin/Debug/net5.0/ForEachInArray.pdb
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.dll
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ref/ForEachInArray.dll
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.pdb
+/Users/aleks/Projects/Arrays/ForEachInArray/obj/Debug/net5.0/ForEachInArray.genruntimeconfig.cache

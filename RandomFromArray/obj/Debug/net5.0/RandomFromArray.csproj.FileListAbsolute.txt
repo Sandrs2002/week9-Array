@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/RandomFromArray.deps.json
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/RandomFromArray.runtimeconfig.json
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/RandomFromArray.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/RandomFromArray.dll
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/ref/RandomFromArray.dll
+/Users/aleks/Projects/Arrays/RandomFromArray/bin/Debug/net5.0/RandomFromArray.pdb
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.dll
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/ref/RandomFromArray.dll
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.pdb
+/Users/aleks/Projects/Arrays/RandomFromArray/obj/Debug/net5.0/RandomFromArray.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.deps.json
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.runtimeconfig.json
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.dll
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/ref/FortuneCookie.dll
+/Users/aleks/Projects/Arrays/FortuneCookie/bin/Debug/net5.0/FortuneCookie.pdb
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.dll
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/ref/FortuneCookie.dll
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.pdb
+/Users/aleks/Projects/Arrays/FortuneCookie/obj/Debug/net5.0/FortuneCookie.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/LoopingThroughTheArray.deps.json
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/LoopingThroughTheArray.runtimeconfig.json
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/LoopingThroughTheArray.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/LoopingThroughTheArray.dll
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/ref/LoopingThroughTheArray.dll
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/bin/Debug/net5.0/LoopingThroughTheArray.pdb
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.dll
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/ref/LoopingThroughTheArray.dll
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.pdb
+/Users/aleks/Projects/Arrays/LoopingThroughTheArray/obj/Debug/net5.0/LoopingThroughTheArray.genruntimeconfig.cache

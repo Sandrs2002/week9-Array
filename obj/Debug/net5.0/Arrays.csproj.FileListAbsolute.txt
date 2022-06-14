@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/Arrays.deps.json
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.json
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/Arrays.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/Arrays.dll
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/ref/Arrays.dll
+/Users/aleks/Projects/Arrays/bin/Debug/net5.0/Arrays.pdb
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.dll
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/ref/Arrays.dll
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.pdb
+/Users/aleks/Projects/Arrays/obj/Debug/net5.0/Arrays.genruntimeconfig.cache

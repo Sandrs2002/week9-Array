@@ -1,0 +1,14 @@
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.AssemblyInfo.cs
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/MatterOfTaste.deps.json
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/MatterOfTaste.runtimeconfig.json
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/MatterOfTaste.runtimeconfig.dev.json
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/MatterOfTaste.dll
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/ref/MatterOfTaste.dll
+/Users/aleks/Projects/Arrays/MatterOfTaste/bin/Debug/net5.0/MatterOfTaste.pdb
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.dll
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/ref/MatterOfTaste.dll
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.pdb
+/Users/aleks/Projects/Arrays/MatterOfTaste/obj/Debug/net5.0/MatterOfTaste.genruntimeconfig.cache
